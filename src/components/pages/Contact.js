@@ -4,8 +4,13 @@ import React from 'react';
 
 function Contact(){
     return (
-        <div>
-            <h1>Contact</h1>
+        <div className="main-section container-fluid pt-4 fill">
+            <div className="container-fluid w-75 description ">
+                <h3 className="h3 fw-bold">Contact</h3>
+
+
+            </div>
+
         </div>
     );
 }
