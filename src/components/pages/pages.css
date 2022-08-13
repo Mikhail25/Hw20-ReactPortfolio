@@ -42,6 +42,9 @@
     font-size: 150%;
 }
 
+.image-link {
+    height: 400px;
+}
 
 .image-link h4 {
     position: relative;
@@ -52,4 +55,10 @@
 
 .image-link img {
     object-fit: fill;
+    height: 350px;
+    width: 100%;
+}
+
+.image-link:hover {
+    opacity: 0.5;
 }

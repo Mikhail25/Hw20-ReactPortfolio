@@ -33,14 +33,14 @@ function Portfolio(){
                 <div className="col-6 image-link">
                     <a href="#tracker" className="">
                         <img className="img-thumbnail" src={ProfileGenerator} alt="Employee Tracker" />
-                        <h4 className="bg-info w-100 text-decoration-none">Employee Tracker</h4>
+                        <h4 className="bg-info w-100 text-decoration-none">Profile Generator</h4>
                     </a>
 
                 </div>
                 <div className="col-6 image-link">
                     <a href="#tracker" className="">
-                        <img className="img-thumbnail" src={EmployeeTracker} alt="Employee Tracker" />
-                        <h4 className="bg-info w-100 text-decoration-none">Employee Tracker</h4>
+                        <img className="img-thumbnail" src={WorkDayScheduler} alt="Employee Tracker" />
+                        <h4 className="bg-info w-100 text-decoration-none">Work Day Scheduler</h4>
                     </a>
 
                 </div>
